@@ -2,11 +2,10 @@
 Setting up the new Empathy Lab
 
 An accessibility lab is a facility that provides resources and tools to test digital products for their accessibility. The lab can be used by developers, testers, and designers to evaluate websites, applications, and other digital products for accessibility compliance. 
-{% include youtube.html id="kH3e24jY47E" %}
 
-[![Here is a glimpse of PayPal Accessibility Lab]
-(https://i.ytimg.com/vi/kH3e24jY47E/hqdefault.jpg)]
-( https://www.youtube.com/watch?v=)
+[![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/kH3e24jY47E/hqdefault.jpg)](https://www.youtube.com/watch?v=kH3e24jY47E)
+
+{% include youtube.html id="JLMbpiywVxQ" %}  
 
 The following are the steps to set up an accessibility lab:
 
@@ -39,4 +38,12 @@ The following are the steps to set up an accessibility lab:
      Whenever people from senior leadership visit Chennai centre, we make sure they visit Accessibility showcase. Also we do send emails to team managers asking them to ecourage their staff to experience the lab. Accessibility Showcase is the final part of HR New Hire training and BootCamps for Interns. 
 
      In conclusion, setting up an accessibility lab requires careful planning and consideration of the purpose, space, equipment, and testing procedures. By following the steps outlined above, you can create a lab that gives a real touch and feel of how people with disabilities interact with web and mobile devices. 
+
+
+## YouTube embed example
+
+The YouTube URL of the video is https://www.youtube.com/watch?v=JLMbpiywVxQ. 
+
+Here is how to embed a clickable preview:
+
 
