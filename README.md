@@ -3,9 +3,9 @@ Setting up the new Empathy Lab
 
 An accessibility lab is a facility that provides resources and tools to test digital products for their accessibility. The lab can be used by developers, testers, and designers to evaluate websites, applications, and other digital products for accessibility compliance. 
 
-[![Final video of fixing issues in your code in VS Code](https://i.ytimg.com/vi/kH3e24jY47E/hqdefault.jpg)](https://www.youtube.com/watch?v=kH3e24jY47E)
+[![Here is a glimpse of PayPal Accessibility Labe](https://i.ytimg.com/vi/kH3e24jY47E/hqdefault.jpg)](https://www.youtube.com/watch?v=kH3e24jY47E)
 
-{% include youtube.html id="JLMbpiywVxQ" %}  
+
 
 The following are the steps to set up an accessibility lab:
 
