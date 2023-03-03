@@ -40,10 +40,3 @@ The following are the steps to set up an accessibility lab:
      In conclusion, setting up an accessibility lab requires careful planning and consideration of the purpose, space, equipment, and testing procedures. By following the steps outlined above, you can create a lab that gives a real touch and feel of how people with disabilities interact with web and mobile devices. 
 
 
-## YouTube embed example
-
-The YouTube URL of the video is https://www.youtube.com/watch?v=JLMbpiywVxQ. 
-
-Here is how to embed a clickable preview:
-
-
