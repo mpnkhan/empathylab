@@ -39,5 +39,6 @@ The following are the steps to set up an accessibility lab:
 
      In conclusion, setting up an accessibility lab requires careful planning and consideration of the purpose, space, equipment, and testing procedures. By following the steps outlined above, you can create a lab that gives a real touch and feel of how people with disabilities interact with web and mobile devices. 
 
-Simulator
-https://colorandcontrast.com/#/myopia
+Simulator 
+Understanding some of vision impairments https://colorandcontrast.com/#/myopia
+Keyboard only game https://focus.hteumeuleu.com/ (https://github.com/hteumeuleu/hocus-focus)
