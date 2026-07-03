@@ -41,4 +41,5 @@ The following are the steps to set up an accessibility lab:
 
 ### References  
 1. Understanding some of vision impairments https://colorandcontrast.com/#/myopia
-2. Keyboard only game https://focus.hteumeuleu.com/ (https://github.com/hteumeuleu/hocus-focus)
+2. Keyboard only game https://github.com/hteumeuleu/hocus-focus
+3. Dyslexia, Irlen Syndrome & Reading-Disorder Simulator https://jdhori.github.io/dyslexia-simulator/
